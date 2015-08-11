@@ -21,6 +21,7 @@
     NSLog(@"chagning master");
     NSLog(@"feature a");
     NSLog(@"conflict commit");
+    NSLog(@"feature-a conflict commit");
 }
 
 - (void)didReceiveMemoryWarning {
