@@ -20,6 +20,7 @@
     NSLog(@"first commit");
     NSLog(@"chagning master");
     NSLog(@"feature a");
+    NSLog(@"feature-a conflict commit");
 }
 
 - (void)didReceiveMemoryWarning {
