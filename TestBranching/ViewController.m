@@ -19,6 +19,7 @@
     // Do any additional setup after loading the view, typically from a nib.
     NSLog(@"first commit");
     NSLog(@"chagning master");
+    NSLog(@"conflict commit");
 }
 
 - (void)didReceiveMemoryWarning {
