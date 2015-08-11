@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>3BD19316-DF6E-43E3-86D1-06817317F8A4</string>
+	<key>IDESourceControlProjectName</key>
+	<string>TestBranching</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>ADC5F2F5CA26799FCFCD12F25E2CAAFC3DE9C9CA</key>
+		<string>https://github.com/adcloeshelle/TestBamboo.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>TestBranching.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>ADC5F2F5CA26799FCFCD12F25E2CAAFC3DE9C9CA</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/adcloeshelle/TestBamboo.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>ADC5F2F5CA26799FCFCD12F25E2CAAFC3DE9C9CA</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>ADC5F2F5CA26799FCFCD12F25E2CAAFC3DE9C9CA</string>
+			<key>IDESourceControlWCCName</key>
+			<string>TestBranching</string>
+		</dict>
+	</array>
+</dict>
+</plist>
