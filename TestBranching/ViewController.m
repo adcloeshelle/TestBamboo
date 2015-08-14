@@ -25,6 +25,7 @@
     NSLog(@"feature a new commit");
     NSLog(@"feature b conflict");
     NSLog(@"conflict");
+    NSLog(@"feature -c conflict from b");
 }
 
 - (void)didReceiveMemoryWarning {
